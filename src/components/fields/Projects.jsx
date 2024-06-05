@@ -54,7 +54,7 @@ const Projects = () => {
         project_url="https://github.com/arohanajit/polly"
         tech_used={["React","TypeScript","Tailwind CSS","AWS Lambda","Prisma ORM","Middy Middleware","Chart.js","Axios","Serverless Functions"]}
         project_image={FWMS}
-        youtube_video_url="https://www.youtube.com/watch?v=your-video-id-3"
+        youtube_video_url="https://youtu.be/gO5nstBFB7I"
       />
     </div>
   );
